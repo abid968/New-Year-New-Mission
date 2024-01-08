@@ -99,6 +99,7 @@ height: 600px;
     width: 1320px;
     height: 600px;
     text-align: center;
+    margin: auto;
 
 }
 .bg{
@@ -118,17 +119,48 @@ height: 600px;
 
 .image-four{
     text-align: center;
+    width: 400px;
+    height: 400px;
+    margin: auto;   
+    border-radius: 50%;
+    border: 15px solid#F00;
+    padding: 40px 40px 0px 40px;
+
 }
 
 
 .best{
     color: #F00;
-font-size: 24px;
-font-weight: 500;
+    font-size: 24px;
+    font-weight: 500;
+    padding-right: 300px;
 }
 .soon{
     color: #070211;
-font-size: 48px;
-font-weight: 900;
-text-transform: capitalize;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    padding-right: 300px;
+}
+
+.year-fr{
+    color: #F00;
+    font-size: 48px;
+    font-weight: 700;
+    padding-left: 118px;
+
+}
+.anth-sec{
+    margin: auto;
+    display: flex;
+    width: 1320px;
+}
+.group{
+    padding-left: 118px;
+    margin: auto;
+    
+}
+.offer{
+    text-align: right;
+    padding-right: 55px;
 }
