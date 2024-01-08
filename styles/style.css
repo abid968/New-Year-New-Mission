@@ -1,0 +1,17 @@
+/* header  */
+.div-one
+{  
+    background-image: url(../resources/Banner\ Image.png);
+    width: 1320px;
+height: 600px;
+    width: 1320px;
+    height: 600px;
+}
+.p-one{
+    color: #FFF;
+    text-align: center;
+    font-size: 73px;
+    font-weight: 850;
+    padding: 235px 345px 178px 345px;
+    width: 630px;
+}
