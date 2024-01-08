@@ -94,8 +94,12 @@ height: 600px;
     font-weight: 600;
     line-height: 56px;
     text-align: center;
-    background: #FF0000, #FF000000;
+    background:  linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
     padding-top: 50px;
+    width: 1320px;
+    height: 600px;
+    text-align: center;
+
 }
 .bg{
     color: #F00;
@@ -110,4 +114,21 @@ height: 600px;
     align-items: center;
     gap: 10px;
     border: none;
+}
+
+.image-four{
+    text-align: center;
+}
+
+
+.best{
+    color: #F00;
+font-size: 24px;
+font-weight: 500;
+}
+.soon{
+    color: #070211;
+font-size: 48px;
+font-weight: 900;
+text-transform: capitalize;
 }
