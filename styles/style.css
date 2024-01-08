@@ -1,4 +1,7 @@
-/* header  */
+*{
+    margin: 0px;
+    padding: 0px;
+}
 .div-one
 {  
     background-image: url(../resources/Banner\ Image.png);
@@ -6,6 +9,8 @@
 height: 600px;
     width: 1320px;
     height: 600px;
+    background-position: center;
+    margin: 50px auto;
 }
 .p-one{
     color: #FFF;
@@ -15,6 +20,35 @@ height: 600px;
     padding: 235px 345px 178px 345px;
     width: 630px;
 }
+
+.welcome{
+    color: #FFF;
+    font-size: 64px;
+    font-weight: 900;
+    letter-spacing: 7.04px;
+    width: 642px;
+    height: 176px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 80px;
+}
+.intro{
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-left: 100px;
+
+}
+.join{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-left: 150px;
+    margin-top: 70px;
+}
+
 .discount{
     color: #F00;
     text-align: center;
@@ -40,7 +74,40 @@ height: 600px;
 }
 .new{
     width: 803px;
-height: 500px;
-margin: 426px 259px 120px 259px;
-padding-bottom: 426px;
+    height: 500px;
+    margin: 50px auto
+    
+}
+.div-two{ display: flex;
+    background-image: url(../resources/Vectorrr.png);
+    width: 1320px;
+    height: 600px;
+    background-position: center;
+    margin: 50px auto;
+}
+.new{
+    margin: auto;
+}
+.text{
+    color: #070211;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    text-align: center;
+    background: #FF0000, #FF000000;
+    padding-top: 50px;
+}
+.bg{
+    color: #F00;
+}
+.btn{
+    background-color: #F00;
+    color: #FFF;
+    border-radius: 8px;
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border: none;
 }
