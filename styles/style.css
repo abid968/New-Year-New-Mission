@@ -6,7 +6,7 @@
 {  
     background-image: url(../resources/Banner\ Image.png);
     width: 1320px;
-height: 600px;
+    height: 600px;
     width: 1320px;
     height: 600px;
     background-position: center;
@@ -237,24 +237,24 @@ height: 600px;
 }
 .rec-a{
     width: 424px;
-height: 450px;
-flex-shrink: 0;
-background: url(../resources/Rectangle\ 3.png);
-border-radius: 15px;
+    height: 450px;
+    flex-shrink: 0;
+    background: url(../resources/Rectangle\ 3.png);
+    border-radius: 15px;
 }
 .rec-b{
     background: url(../resources/Rectangle\ 4.png);
-width: 424px;
-height: 450px;
-flex-shrink: 0;
-border-radius: 15px;
+    width: 424px;
+    height: 450px;
+    flex-shrink: 0;
+    border-radius: 15px;
 }
 .rec-c{
     background: url(../resources/Rectangle\ 5.png);
     width: 424px;
-height: 450px;
-flex-shrink: 0;
-border-radius: 15px;
+    height: 450px;
+    flex-shrink: 0;
+    border-radius: 15px;
 }
 .products-b{
     display: flex;
@@ -265,9 +265,9 @@ border-radius: 15px;
 .rec-d{
     background: url(../resources/Rectangle\ 6.png);
     width: 424px;
-height: 450px;
-flex-shrink: 0;
-border-radius: 15px;
+    height: 450px;
+    flex-shrink: 0;
+    border-radius: 15px;
 }
 .rec-e{
     background: url(../resources/Rectangle\ 7.png);
@@ -285,4 +285,49 @@ border-radius: 15px;
 }
 .text-b{
     padding-left: 140px;
+}
+
+.bg-a{
+    width: 1320px;
+    height: 616px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    margin: 50px auto;
+}
+.icon{
+    text-align: center;
+    padding-top: 80px;
+}
+.subs{
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+.user{
+    width: 600px;
+    height: 60px;
+    border-radius: 50px;
+    background: #FFF;
+    text-decoration: none;
+}
+.news{
+    padding-top: 48px;
+}
+.area{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    width: 210px;
+    height: 65px;
+    text-decoration: none;
 }
