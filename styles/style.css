@@ -164,3 +164,125 @@ height: 600px;
     text-align: right;
     padding-right: 55px;
 }
+.upto{
+    text-align: center;
+}
+.what{
+    color: #070211;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: normal;
+    padding-top: 120px;
+}
+.holi{
+    color: #F00;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: normal;
+}
+.sale{
+    color: #070211;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: normal;
+}
+.get{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+}
+.images{
+    display: flex;
+    justify-content: space-around;
+    background: url("../resources/Rectangle\ 1.png"),
+    url("../resources/Rectangle\ 2.png");
+    width: 1320px;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-position: top right, bottom;
+    gap: 15px;
+}
+.a-image{
+    width: 55%;
+}
+.b-image{
+    width: 45%;
+    padding-top: 75px;
+}
+.best-a{
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 120px;
+}
+.our{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    display: flex;
+}
+.text-a{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    padding-bottom: 50px;
+}
+.products-{
+    display: flex;
+    gap: 24px;
+    padding-left: 140px;
+}
+.rec-a{
+    width: 424px;
+height: 450px;
+flex-shrink: 0;
+background: url(../resources/Rectangle\ 3.png);
+border-radius: 15px;
+}
+.rec-b{
+    background: url(../resources/Rectangle\ 4.png);
+width: 424px;
+height: 450px;
+flex-shrink: 0;
+border-radius: 15px;
+}
+.rec-c{
+    background: url(../resources/Rectangle\ 5.png);
+    width: 424px;
+height: 450px;
+flex-shrink: 0;
+border-radius: 15px;
+}
+.products-b{
+    display: flex;
+    gap: 24px;
+   padding-top: 24px;
+   padding-left: 140px;
+}
+.rec-d{
+    background: url(../resources/Rectangle\ 6.png);
+    width: 424px;
+height: 450px;
+flex-shrink: 0;
+border-radius: 15px;
+}
+.rec-e{
+    background: url(../resources/Rectangle\ 7.png);
+    width: 424px;
+    height: 450px;
+    flex-shrink: 0;
+    border-radius: 15px;
+}
+.rec-f{
+    background: url(../resources/Rectangle\ 8.png);
+    width: 424px;
+    height: 450px;
+    flex-shrink: 0;
+    border-radius: 15px;
+}
+.text-b{
+    padding-left: 140px;
+}
